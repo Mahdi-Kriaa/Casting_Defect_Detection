@@ -1,0 +1,2 @@
+callbacks/baseline_model_checkpoint.keras
+callbacks/fine_tuned_model_checkpoint.keras
