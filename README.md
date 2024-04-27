@@ -42,7 +42,7 @@ The following are the accuracy scores for each model on the validation dataset:
 This is the confusion matrix for the fine Tuned MobileNetV2 model on the validation dataset
 ## Recommendations
 - The fine tuned MobileNetV2 model can detect the majority of defective pieces but it still not perfect, so it is not reliable to trust only on it.
-- Images must represent the frontal piece view and must be taken in a good brigthness level
+- Images must represent the frontal piece view and must be taken in a good brigthness level.
 
 ## Limitations & Next Steps
 
