@@ -25,8 +25,8 @@ The data will be preprocessed using data augmentation techiques, then We will ex
 
 Models used in this project are the following :
 
-    - Simple CNN model
-    - Fine Tuned MobileNetV2 model
+    - Simple CNN Model
+    - Fine Tuned MobileNetV2 Model
 
 ### Models Evaluation & Results
 
@@ -46,7 +46,7 @@ This is the confusion matrix for the fine Tuned MobileNetV2 model on the validat
 
 ## Limitations & Next Steps
 
-The model is not reliable for detecting all the casting defects so other image preprocessing techniques or models can be tried to improve the performance.
+The model is not reliable for detecting all the casting defects so other image preprocessing techniques or models can be tried to improve the model performance.
 
 
  
