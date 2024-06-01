@@ -16,7 +16,7 @@ Link to dataset: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industr
 </p>
 
 ## Methodology
-The data will be preprocessed using data augmentation techiques, then We will explore two convolutional neural networks to detect casting defects. Model performance will be evaluated based on the accuracy score as validating a defective piece or rejecting a good one are a crucial errors
+The data will be preprocessed using data augmentation techiques, then we will explore two convolutional neural networks to detect casting defects. Model performance will be evaluated based on the accuracy score as validating a defective piece or rejecting a good one are a crucial errors
 
 
 ## Machine Learning 
